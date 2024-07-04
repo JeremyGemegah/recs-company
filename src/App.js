@@ -20,7 +20,7 @@ function App() {
           coming soon...
         </Typography>
         <Typography>
-          we are currently working on our new site. 
+          we are currently working on our new website. 
         </Typography>
         <Typography>
           you can visit our social media profiles to learn more
